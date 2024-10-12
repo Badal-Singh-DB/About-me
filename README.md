@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Badal Singh (@Badal-Singh-DB)
+# 👋 Hi there, I'm Badal Singh 
 
 ## 👀 About Me:
 I'm passionate about solving interesting, challenging problems and working on exceptional projects that make a real impact. I enjoy pushing the boundaries of what's possible, especially in the fields of **machine learning**, **data mining**, and **financial risk assessment**.
